@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(68,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(85,30): warning C4029: declared formal parameter list different from definition
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(100,1): warning C4029: declared formal parameter list different from definition
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(101,20): warning C4033: 'InOrder' must return a value
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(149,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(108): warning C4715: 'InOrder': not all control paths return a value
+C:\Users\bosko\source\repos\ZadatakBinTree\Source.c(141): warning C4715: 'WriteInFile': not all control paths return a value
+  ZadatakBinTree.vcxproj -> C:\Users\bosko\source\repos\ZadatakBinTree\x64\Debug\ZadatakBinTree.exe
